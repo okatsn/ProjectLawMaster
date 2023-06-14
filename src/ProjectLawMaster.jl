@@ -1,5 +1,5 @@
 module ProjectLawMaster
+include("dirs.jl")
 
-greet() = print("Hello World!")
 
 end # module ProjectLawMaster
