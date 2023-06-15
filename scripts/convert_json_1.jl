@@ -1,3 +1,6 @@
+
+# Please activate the environment of ProjectLawMaster first.
+
 using JSON, CorpusCleanerForTWLaws
 using ProjectLawMaster
 using StructArrays
